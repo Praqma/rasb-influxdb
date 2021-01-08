@@ -18,3 +18,10 @@ timeout = "5s"
 username = "telegraf"
 password = "12345"
 ```
+
+## Useful links
+
+- https://www.influxdata.com/
+- https://www.youtube.com/watch?v=RBu4_5T2smU
+- https://hub.docker.com/_/telegraf
+- https://plugins.jenkins.io/influxdb/
